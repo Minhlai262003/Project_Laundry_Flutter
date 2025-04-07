@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "542357172243",
+    "project_id": "laundry-60f78",
+    "storage_bucket": "laundry-60f78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542357172243:android:6eed4bc757458fd5814fe6",
+        "android_client_info": {
+          "package_name": "com.example.project_laundry_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542357172243-4jj7p26hfnjl06t2m100sngevljupdqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_laundry_flutter",
+            "certificate_hash": "c9c856ead67ff415702b35857bead4d1ecda7e05"
+          }
+        },
+        {
+          "client_id": "542357172243-p5mgutva7cnrk5eja0dsvp802e3vqvsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl94NcpnhmYRp--T8EJ7YFQ1YXT01wxZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542357172243-p5mgutva7cnrk5eja0dsvp802e3vqvsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542357172243-cu766ou2kcue503lokagqnal5q3m6cdr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectLaundryFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
